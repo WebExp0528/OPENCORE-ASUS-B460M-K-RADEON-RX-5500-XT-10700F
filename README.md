@@ -6,7 +6,7 @@ hackintosh: OpenCore + ASUS PRIME B460M-K + 10700F + RADEON RX 5500XT 4G
 
 > 2021-06-14
 
-- macOS 11.4 & OpenCore 0.7.2
+- macOS 11.4 & OpenCore 0.7.3
 - Added GUI Interface with OpenCanopy.efi
 - Added ALC897 Audio Support
 - Added Bluetooth Support
