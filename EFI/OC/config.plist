@@ -1185,7 +1185,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C021143064NPHCDUE</string>
+			<string>C02010102GUPHCDAD</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1197,9 +1197,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02FJ006PN5T</string>
+			<string>C02CD6ZNPN5T</string>
 			<key>SystemUUID</key>
-			<string>A766537D-47EB-40E1-BD56-A47AA0CAB952</string>
+			<string>3B0A2817-33C2-4CE3-977B-AE69863F7241</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1221,7 +1221,7 @@
 			<key>GlobalConnect</key>
 			<false/>
 			<key>HideVerbose</key>
-			<true/>
+			<false/>
 			<key>JumpstartHotPlug</key>
 			<false/>
 			<key>MinDate</key>
@@ -1432,7 +1432,7 @@
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ReservedMemory</key>
 		<array>
