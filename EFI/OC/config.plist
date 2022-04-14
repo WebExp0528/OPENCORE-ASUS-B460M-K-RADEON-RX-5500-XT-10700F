@@ -635,6 +635,8 @@
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
+				<key>Strategy</key>
+				<string>Disable</string>
 			</dict>
 		</array>
 		<key>Emulate</key>
@@ -986,6 +988,8 @@
 			<integer>0</integer>
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
+			<key>LogModules</key>
+			<string>*</string>
 			<key>SerialInit</key>
 			<false/>
 			<key>SysReport</key>
@@ -1185,7 +1189,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02010102GUPHCDAD</string>
+			<string>C02216270J9PHC11M</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1197,9 +1201,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CD6ZNPN5T</string>
+			<string>C02HLGYWPN5T</string>
 			<key>SystemUUID</key>
-			<string>3B0A2817-33C2-4CE3-977B-AE69863F7241</string>
+			<string>C0108996-3949-4559-AB6D-FCA901DFDBA5</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
