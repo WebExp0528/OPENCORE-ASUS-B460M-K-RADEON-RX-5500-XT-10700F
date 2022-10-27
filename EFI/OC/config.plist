@@ -38,14 +38,6 @@
 				<key>Path</key>
 				<string>SSDT-RHUB.aml</string>
 			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-RX-5500-XT.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-RX-5500-XT.aml</string>
-			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -1116,7 +1108,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 alcid=66 agdpmod=pikera</string>
+				<string>keepsyms=1 alcid=66</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1187,7 +1179,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020083064NPHCDFB</string>
+			<string>C02112600CDPHCD1M</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1199,9 +1191,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02C9AYRPN5T</string>
+			<string>C02FGRZ4PN5T</string>
 			<key>SystemUUID</key>
-			<string>08A3F497-FA47-436C-84A4-9908A35A2853</string>
+			<string>CE853131-17FE-4C15-894C-BF1E2EE3F2B3</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
