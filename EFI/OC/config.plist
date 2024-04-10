@@ -38,14 +38,6 @@
 				<key>Path</key>
 				<string>SSDT-RHUB.aml</string>
 			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-RX-5500-XT.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-RX-5500-XT.aml</string>
-			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -229,11 +221,6 @@
 			<dict>
 				<key>layout-id</key>
 				<data>QgAAAA==</data>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
-			<dict>
-				<key>AAPL,ig-platform-id</key>
-				<data>AwDImw==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1106,7 +1093,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 alcid=66 agdpmod=pikera</string>
+				<string>keepsyms=1 alcid=66 shikigva=80 debug=0x100</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
